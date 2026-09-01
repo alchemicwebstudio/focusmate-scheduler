@@ -14,8 +14,7 @@ I do nine Focusmate sessions a day, at the same times, every day.
 Focusmate can't repeat a booking. So every week I clicked the same grid again,
 one session at a time, and every week I got something wrong or gave up halfway.
 
-Five minutes a week, forever, for something a computer should just do. So now I
-write my week down once and press a button.
+Now I get it done in seconds. I write my week down once and press a button.
 
 If your week is different every time, you don't need this.
 
