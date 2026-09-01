@@ -28,7 +28,12 @@ browser, signed in as you - there is no server, no account and no config file.
 
 ## What it does
 
-Click the toolbar button on `app.focusmate.com` and a panel opens with two tabs.
+Open `app.focusmate.com`, then click the **FS** button in your Chrome toolbar -
+the one this extension added when you installed it:
+
+<img src="docs/toolbar-button.png" alt="The FS button in the Chrome toolbar" width="140">
+
+The panel opens over the page, with two tabs.
 
 **Schedule** - seven day-columns, up to 10 sessions a day. Start times are
 dropdowns on Focusmate's 15-minute grid, with a 25 / 50 / 75 minute duration.
