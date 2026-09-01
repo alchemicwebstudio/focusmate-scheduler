@@ -1,10 +1,9 @@
-# Focusmate Scheduler
+# Unofficial focusmate.com Scheduler
 
 **Book three months of [focusmate.com](https://www.focusmate.com) sessions in
-five seconds.**
+seconds, not hours.**
 
-An unofficial Chrome extension for people who sit down at the same times every
-week.
+A Chrome extension for people who sit down at the same times every week.
 
 ![Booking a run of weeks](docs/booking.gif)
 
