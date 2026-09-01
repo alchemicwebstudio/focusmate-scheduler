@@ -1,0 +1,10 @@
+# OS / editor cruft
+.DS_Store
+*.swp
+.qodo/
+.claude
+
+# deps (none yet, but conventional)
+node_modules/
+
+_features/
