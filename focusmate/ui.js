@@ -173,7 +173,7 @@ button.go.danger.armed:hover:not(:disabled) { background: #6b0f2a; }
     el.append(head, dow, weeksEl, text, hint, clear);
 
     const firstMonday = w.mondayOf(w.startOfToday());
-    // Absolute horizon: the last week Focusmate will take a booking in.
+    // Booking horizon: see MAX_WEEKS in weeks.js for why it stops at a month.
     const lastMonday = w.addDays(firstMonday, (w.MAX_WEEKS - 1) * 7);
     const today = w.startOfToday();
     // The first bookable week can start in the previous month (if today is a

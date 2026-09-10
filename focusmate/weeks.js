@@ -13,7 +13,12 @@ window.FM.weeks = (() => {
   };
   const MONTHS = ["January","February","March","April","May","June","July",
                   "August","September","October","November","December"];
-  const MAX_WEEKS = 13;
+  // Five weeks out, no further. Focusmate's own calendar gets slow to load once
+  // an account holds a few hundred upcoming sessions, and booking a quarter at a
+  // time is what puts it there. A month at a time keeps the site quick. Five
+  // rather than four, so a full month ahead is always reachable whatever day of
+  // the week you book on.
+  const MAX_WEEKS = 5;
   const DURATIONS = [25, 50, 75];
   const HOURS = Array.from({ length: 24 }, (_, i) => i);
   const STEPS = [0, 15, 30, 45]; // Focusmate only starts sessions on a 15-min step

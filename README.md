@@ -1,6 +1,6 @@
 # Unofficial focusmate.com Scheduler
 
-**Book three months of [focusmate.com](https://www.focusmate.com) sessions in
+**Book a month of [focusmate.com](https://www.focusmate.com) sessions in
 seconds, not hours.**
 
 A Chrome extension for people who sit down at the same times every week.
@@ -36,6 +36,17 @@ never double-books.
 One rule worth knowing: Focusmate adds a break after every session, so a 25 / 50
 / 75 minute session actually blocks 30 / 60 / 90. The grid warns you as you type
 if two sessions are too close.
+
+## Why only five weeks
+
+The calendar stops five weeks out, and that's on purpose.
+
+Focusmate loads every upcoming session you hold. Book three months of nine
+sessions a day and that's a few hundred of them, and the site turns slow -
+including for you, every time you open it.
+
+A month at a time keeps it quick. Come back and book the next one when you're
+ready.
 
 The **Cancel** tab does the reverse: pick weeks, and it cancels everything in
 them. That one can't be undone.
